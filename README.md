@@ -2,7 +2,6 @@
 
 Hey! 👋 I'm Anastasiia, a beginner frontend developer 👩🏻‍💻 
 ```
-
 const Anastasiia = {
     code: ["JavaScript", "CSS", "HTML"],
     technologies: {
