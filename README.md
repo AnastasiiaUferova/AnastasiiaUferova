@@ -1,3 +1,14 @@
 # About-Me
-Meet Anastasiia 
-<img width="618" alt="Screen Shot 2022-08-04 at 11 02 44 AM" src="https://user-images.githubusercontent.com/78100943/182808289-e4017013-5e8e-4239-b0ca-d03eb51e8e01.png">
+
+const Anastasiia = {
+    code: ["JavaScript", "CSS", "HTML"],
+    technologies: {
+        frontEnd: ["React.js"],
+        backEnd: ["Node.js", "Express"],
+        database: "MongoDB",
+        additional: ["WebPack", "Figma", "Git"]
+    },
+    languages: ["Russian", "English"],
+    currentFocus: ["To find a junior frontend dev job", "To develop pet projects"],
+    hobbies: ["mobile photography", "dancing", "occasional gaming"],
+};
