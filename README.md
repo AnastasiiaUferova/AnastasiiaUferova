@@ -15,7 +15,6 @@ const Anastasiia = {
     currentFocus: ["To find a junior frontend dev job", "To develop pet projects"],
     hobbies: ["mobile photography", "dancing", "occasional gaming"],
 };
-
 ```
 ## Contacts 📧
 * Email: anastasiia.iuferova@gmail.com
