@@ -18,10 +18,6 @@ const Anastasiia = {
 };
 
 ```
-## Repositories to take a look at 😎
-* "Mesto" project: https://github.com/AnastasiiaUferova/react-mesto-api-full
-* "Moives explorer" project: https://github.com/AnastasiiaUferova/movies-explorer-frontend
-
 ## Contacts 📧
 * Email: anastasiia.iuferova@gmail.com
 * LinkedIn: https://www.linkedin.com/in/anastasiia-iuferova-frontend-dev/
