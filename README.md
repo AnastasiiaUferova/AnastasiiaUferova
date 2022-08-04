@@ -18,6 +18,6 @@ const Anastasiia = {
 };
 
 ```
-##Contacts
-
-
+## Contacts
+* Email: anastasiia.iuferova@gmail.com
+* LinkedIn: https://www.linkedin.com/in/anastasiia-iuferova-frontend-dev/
