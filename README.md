@@ -5,7 +5,7 @@ Hey! 👋 I'm Anastasiia, a beginner frontend developer 👩🏻‍💻
 const Anastasiia = {
     code: ["JavaScript", "CSS", "HTML"],
     technologies: {
-        frontEnd: ["React.js"],
+        frontEnd: ["React.js", "SCSS"],
         backEnd: ["Node.js", "Express"],
         database: "MongoDB",
         additional: ["WebPack", "Figma", "Git"]
@@ -19,4 +19,3 @@ const Anastasiia = {
 ## Contacts 📧
 * Email: anastasiia.iuferova@gmail.com
 * LinkedIn: https://www.linkedin.com/in/anastasiia-iuferova-frontend-dev/
-
