@@ -12,6 +12,7 @@ const Anastasiia = {
     },
     education: "Yandex.Practicum Web Development course",
     languages: ["Russian", "English"],
+    learningNow: ["TypeScript", "React.js"],
     currentFocus: ["To find a junior frontend dev job", "To develop pet projects"],
     hobbies: ["mobile photography", "dancing", "occasional gaming"],
 };
@@ -19,3 +20,4 @@ const Anastasiia = {
 ## Contacts 📧
 * Email: anastasiia.iuferova@gmail.com
 * LinkedIn: https://www.linkedin.com/in/anastasiia-iuferova-frontend-dev/
+* Portfolio Page: [portfolio-page-8x3v.vercel.app ](https://portfolio-page-8x3v.vercel.app)
