@@ -22,4 +22,4 @@ const Anastasiia = {
 * LinkedIn: https://www.linkedin.com/in/anastasiia-iuferova-frontend-dev/
 
 ## Portfolio Page 👩‍💻
-[portfolio-page-8x3v.vercel.app ](https://portfolio-page-8x3v.vercel.app)
+* https://anastasiiaiuferova-portfolio.vercel.app
