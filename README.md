@@ -10,7 +10,7 @@ const Anastasiia = {
         database: "MongoDB",
         additional: ["WebPack", "Figma", "Git"]
     },
-    education: "Yandex.Practicum Web Development course",
+    education: ["Yandex.Practicum Web Development course", "RS School, React course 2023"],
     languages: ["Russian", "English"],
     learningNow: ["TypeScript", "React.js", "Bootstrap"],
     currentFocus: ["To find a junior frontend dev job", "To develop pet projects"],
