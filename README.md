@@ -5,14 +5,14 @@ Hey! 👋 I'm Anastasiia, a beginner frontend developer 👩🏻‍💻
 const Anastasiia = {
     code: ["JavaScript", "CSS", "HTML"],
     technologies: {
-        frontEnd: ["React.js", "SCSS"],
-        backEnd: ["Node.js", "Express"],
+        frontEnd: ["React.js", "React Native", "SCSS", "Tailwind", "Bootstrap", "Mantine",],
+        backEnd: ["Node.js", "Express", "Koa"],
         database: "MongoDB",
         additional: ["WebPack", "Figma", "Git"]
     },
     education: ["Yandex.Practicum Web Development course", "RS School, React course 2023"],
     languages: ["Russian", "English"],
-    learningNow: ["TypeScript", "React.js", "Bootstrap"],
+    learningNow: ["TypeScript", "Redux Toolkit"],
     currentFocus: ["To find a junior frontend dev job", "To develop pet projects"],
     hobbies: ["mobile photography", "dancing", "occasional gaming"],
 };
