@@ -1,6 +1,6 @@
 # About-Me
 
-Hey! 👋 I'm Anastasiia, a beginner frontend developer 👩🏻‍💻 
+Hey! 👋 I'm Anastasiia, a frontend developer with 2 years of experience 👩🏻‍💻 
 ```
 const Anastasiia = {
     code: ["JavaScript", "CSS", "HTML"],
